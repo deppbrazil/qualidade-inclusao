@@ -11,4 +11,5 @@
 * [Design Dependences](https://www.adobe.com/br/products/illustrator.html?gclid=Cj0KCQjw6fvdBRCbARIsABGZ-vRnu7rWBiJ6AZZg5y5oOfoT3YO45o00qcf-O79Vm2W9FZWy-V0NiiMaAvcnEALw_wcB&sdid=KQPNX&mv=search&ef_id=Cj0KCQjw6fvdBRCbARIsABGZ-vRnu7rWBiJ6AZZg5y5oOfoT3YO45o00qcf-O79Vm2W9FZWy-V0NiiMaAvcnEALw_wcB:G:s&s_kwcid=AL!3085!3!227223697575!e!!g!!illustrator)
 
 * [Palette Color](https://github.com/deppbrazil/qualidade-inclusao/blob/master/brand/dist/palette_color-06.png)
-<img width="600" alt="palette color" src="https://github.com/deppbrazil/qualidade-inclusao/blob/master/brand/dist/palette_color-06.png">
+- `Blue: #0070B4` 
+<img width="400" alt="palette color" src="https://github.com/deppbrazil/qualidade-inclusao/blob/master/brand/dist/palette_color-06.png">
