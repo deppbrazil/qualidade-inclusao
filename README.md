@@ -3,8 +3,8 @@
 <img width="200" alt="brand qualidade e inclusão" src="https://github.com/deppbrazil/qualidade-inclusao/blob/master/png/brand_not_font-07.png">
 
 
-* [PNG](https://github.com/deppbrazil/qualidade-inclusao/tree/brand/png)
-* [SVG](https://github.com/deppbrazil/qualidade-inclusao/tree/brand/svg)
+* [PNG](https://github.com/deppbrazil/qualidade-inclusao/tree/master/png)
+* [SVG](https://github.com/deppbrazil/qualidade-inclusao/tree/master/svg)
 
 ## Infos ##
 
