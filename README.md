@@ -11,4 +11,4 @@
 
 * [Palette Color](https://github.com/deppbrazil/qualidade-inclusao/blob/master/dist/palette_color-06.png) `Blue: #0070B4` `Blue: #00406E` `White: #FFFFFF` `White: #C8C8C8`
 
-<img width="400" alt="palette color" src="https://github.com/deppbrazil/qualidade-inclusao/blob/master/dist/palette_color-06.png">
+[![PaletteColor](assets/palette-color.jpg)](https://github.com/deppbrazil/qualidade-inclusao)
